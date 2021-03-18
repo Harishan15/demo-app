@@ -1,6 +1,6 @@
 # Default Username and Password
 
-Username : admin@gmail.com
+Username : admin@gmail.com \
 Password : 123456
 
 # Getting Started with Demo APP
