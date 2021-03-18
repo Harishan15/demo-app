@@ -1,3 +1,8 @@
+# Default Username and Password
+
+Username : admin@gmail.com
+Password : 123456
+
 # Getting Started with Demo APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
