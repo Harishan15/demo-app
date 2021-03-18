@@ -6,6 +6,10 @@ class LoginForm extends Component {
 		errors: "",
 	};
 
+	componentDidMount() {
+		localStorage.setItem("admin@gmail.com", "123456");
+	}
+
 	submitHandler = (e) => {
 		e.preventDefault();
 		let Username = document.getElementById("username").value;
